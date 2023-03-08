@@ -1,3 +1,11 @@
+---
+sponsor: "Foundation"
+slug: "2022-11-foundation"
+date: "2022-12-14"  
+title: "Foundation Exhibition, Scheduling & Early Access Solo Audit by Lambda"
+findings: ""
+contest: 197
+---
 # Overview
 
 ## About C4
